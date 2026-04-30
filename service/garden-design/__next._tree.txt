@@ -1,2 +1,2 @@
-:HL["/_next/static/chunks/0q~kwmz83ex-3.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"service","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"garden-design","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"-jDAYvfEwsA3bwAry3-gz"}
+:HL["/_next/static/chunks/06wu8sbx9ulg0.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"service","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"garden-design","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"KxGWFhVybq7bwpyxcCUKN"}
