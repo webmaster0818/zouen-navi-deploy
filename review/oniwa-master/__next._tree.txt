@@ -1,4 +1,4 @@
 :HL["/_next/static/chunks/0yq4.lm6ehxbe.css","style"]
 :HL["/images/hero-b.png","image"]
 :HL["/images/hero-c.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"review","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"oniwa-master","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"y5dN15onegw67CkrWtJDD"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"review","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"oniwa-master","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"kH4125-RG4dB_5l5RlK7Z"}
