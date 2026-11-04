@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/0yq4.lm6ehxbe.css","style"]
+:HL["/_next/static/chunks/02d64_9pt~ghh.css","style"]
 :HL["/images/hero-a.png","image"]
 :HL["/images/hero-c.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"review","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"smile-garden","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"kH4125-RG4dB_5l5RlK7Z"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"review","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"smile-garden","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"p_9Fo8GueKJaE8_Omlcyy"}
